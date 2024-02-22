@@ -1,0 +1,61 @@
+
+
+
+body{
+    background-color: darkslategrey;
+}
+h1{
+ font-family: 'Lucida Sans';
+ color: darkblue;
+ font-style: italic;
+ text-align: center;
+
+}
+
+#lista{
+    vertical-align: top;
+    color: blueviolet;
+    font-size: large;
+    font-style: italic;
+    padding-top: 50px;
+
+
+}
+#lista:hover{
+    color: palevioletred;
+}
+
+ #agregar{
+    color: blueviolet;
+    background-color: aqua;
+    padding: 15px 32px;
+    
+    
+}
+#agregar:hover{
+    color: darkblue;
+    background-color: yellow;
+}
+
+#reset{
+    color: blueviolet;
+    background-color: aqua;
+    padding: 15px 40px;
+  
+
+}
+#reset:hover{
+    color: blue;
+    background-color: yellow;
+ 
+}
+
+
+img{
+    display: block;
+    margin-right: auto ;
+    margin-left: auto;
+    width: 1000px;
+    height: 800px;
+}
+
